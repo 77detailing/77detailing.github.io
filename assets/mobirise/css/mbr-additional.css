@@ -1045,7 +1045,7 @@ a {
   }
 }
 .cid-trnzaQlH3H {
-  background-image: url("../../../assets/images/apc-935.jpg");
+  background-image: url("../../../assets/images/userlmn-78a24d3e7c258b6c026a1ed6d6bb246d-1536x2040.jpg");
 }
 .cid-trnzaQlH3H .mbr-fallback-image.disabled {
   display: none;
@@ -1142,7 +1142,7 @@ a {
 }
 .cid-trnOJD96vo {
   padding-top: 2rem;
-  padding-bottom: 6rem;
+  padding-bottom: 3rem;
   background-color: #121212;
 }
 .cid-trnOJD96vo .mbr-fallback-image.disabled {
@@ -1316,6 +1316,13 @@ a {
 }
 .cid-trnOgAg4QR .mbr-section-title {
   color: #ffffff;
+  text-align: center;
+}
+.cid-trnOgAg4QR .card-title {
+  text-align: left;
+}
+.cid-trnOgAg4QR P {
+  text-align: left;
 }
 .cid-trqOXWtasd {
   padding-top: 0rem;
@@ -1416,6 +1423,7 @@ a {
 }
 .cid-trrSPVQHMn .mbr-text {
   color: #bbbbbb;
+  text-align: left;
 }
 .cid-trrSPVQHMn .soc-item {
   display: flex;
@@ -1436,4 +1444,10 @@ a {
   .cid-trrSPVQHMn div > *:last-child {
     margin-top: 0 !important;
   }
+}
+.cid-trrSPVQHMn H5 {
+  text-align: right;
+}
+.cid-trrSPVQHMn .mbr-section-subtitle {
+  text-align: left;
 }
