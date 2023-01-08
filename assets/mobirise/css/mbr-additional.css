@@ -1039,9 +1039,6 @@ a {
     left: -1rem;
   }
 }
-.cid-trnzaQlH3H {
-  background-image: url("../../../assets/images/userlmn-78a24d3e7c258b6c026a1ed6d6bb246d-1536x2040.jpg");
-}
 .cid-trnzaQlH3H .mbr-fallback-image.disabled {
   display: none;
 }
@@ -1053,6 +1050,7 @@ a {
   height: 100%;
   position: absolute;
   top: 0;
+  background-image: url("../../../assets/images/background13.jpg");
 }
 .cid-trnzaQlH3H .mbr-section-title {
   color: #ffffff;
