@@ -1520,7 +1520,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(6, 7, 7, 0.5);
+  background: rgba(6, 7, 7, 0.3);
 }
 .cid-tsnJJ3JVVx .navbar.opened {
   transition: all 0.3s;
@@ -1546,7 +1546,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tsnJJ3JVVx .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 4rem);
   }
 }
 .cid-tsnJJ3JVVx .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -2061,7 +2061,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(6, 7, 7, 0.5);
+  background: rgba(6, 7, 7, 0.3);
 }
 .cid-tsnM2e8LjA .navbar.opened {
   transition: all 0.3s;
@@ -2087,7 +2087,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tsnM2e8LjA .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 4rem);
   }
 }
 .cid-tsnM2e8LjA .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -2625,7 +2625,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(6, 7, 7, 0.5);
+  background: rgba(6, 7, 7, 0.3);
 }
 .cid-tsnSmQmc90 .navbar.opened {
   transition: all 0.3s;
@@ -2651,7 +2651,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tsnSmQmc90 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 4rem);
   }
 }
 .cid-tsnSmQmc90 .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -3166,7 +3166,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: rgba(6, 7, 7, 0.5);
+  background: rgba(6, 7, 7, 0.3);
 }
 .cid-tsN5bdyDdk .navbar.opened {
   transition: all 0.3s;
@@ -3192,7 +3192,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tsN5bdyDdk .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 4rem);
   }
 }
 .cid-tsN5bdyDdk .navbar.collapsed .dropdown-menu .dropdown-submenu {
