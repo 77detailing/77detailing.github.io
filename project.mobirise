@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "77detailing",
-    "currentPage": "stronagłowna.html",
+    "currentPage": "stronaglowna.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -2951,7 +2951,7 @@
         }
       ]
     },
-    "stronagłowna.html": {
+    "stronaglowna.html": {
       "settings": {
         "main": true,
         "title": "77DETAILING | Tarnowskie Góry",
