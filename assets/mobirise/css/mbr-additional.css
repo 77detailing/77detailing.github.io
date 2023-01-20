@@ -1175,6 +1175,11 @@ a {
   justify-content: center;
   align-items: center;
 }
+@media (max-width: 768px) {
+  .cid-ttmoCk6KgX .embla__button {
+    display: none;
+  }
+}
 .cid-ttmoCk6KgX .embla__button:disabled {
   cursor: default;
   display: none;
