@@ -5,7 +5,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 4.6rem;
   line-height: 1.1;
 }
@@ -13,7 +13,7 @@ body {
   font-size: 5.75rem;
 }
 .display-2 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 3rem;
   line-height: 1.1;
 }
@@ -21,7 +21,7 @@ body {
   font-size: 3.75rem;
 }
 .display-4 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1.1rem;
   line-height: 1.5;
 }
@@ -29,7 +29,7 @@ body {
   font-size: 1.375rem;
 }
 .display-5 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1.8rem;
   line-height: 1.5;
 }
@@ -37,7 +37,7 @@ body {
   font-size: 2.25rem;
 }
 .display-7 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -598,7 +598,7 @@ a:hover {
   border-radius: 100px;
 }
 .form-control {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -612,7 +612,7 @@ a:hover {
   border-color: #bbbbbb !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 1.1rem;
   line-height: 1.5;
   font-weight: 400;
@@ -2103,6 +2103,10 @@ a {
   color: #ffffff;
   text-align: center;
 }
+.cid-ttrX7izxMf .mbr-section-subtitle {
+  text-align: center;
+  color: #ffffff;
+}
 .cid-ttBla06mDs {
   padding-top: 2rem;
   padding-bottom: 1rem;
@@ -2577,6 +2581,10 @@ a {
 }
 .cid-tts8IjvSoZ .mbr-text,
 .cid-tts8IjvSoZ .mbr-section-btn {
+  color: #ffffff;
+  text-align: center;
+}
+.cid-tts8IjvSoZ .mbr-section-subtitle {
   color: #ffffff;
   text-align: center;
 }
