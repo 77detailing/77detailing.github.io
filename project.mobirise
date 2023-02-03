@@ -50,7 +50,7 @@
     "uniqCompNum": 103,
     "versionPublish": "5.7.12",
     "favicon": "@PROJECT_PATH@/assets/images/img-1397-128x128.png",
-    "mbrsiteDomain": "lzuo3m7rit",
+    "mbrsiteDomain": "0splygywib",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -59,7 +59,7 @@
     "gdpr": false,
     "witsec-white-label": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "cookiesAlert": false,
     "usedWebp": true
   },
