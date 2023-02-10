@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "77DETAILING",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -1055,7 +1055,7 @@
     },
     "page1.html": {
       "settings": {
-        "title": "77DETAILING | POLEROWANIE LAKIERU",
+        "title": "77DETAILING | Polerowanie lakieru",
         "order": "1",
         "meta_descr": "Studio kompleksowej pielęgnacji samochodów powstałe z czystej pasji do motoryzacji. Cenimy sobie najwyższą jakość i precyzję wykonywanych usług.",
         "meta_image": "@PROJECT_PATH@/assets/images/img-1397.png"
@@ -1639,6 +1639,9 @@
             },
             "UL": {
               "color": "#000000"
+            },
+            ".price-term": {
+              "color": "#000000"
             }
           },
           "_name": "pricing2",
@@ -1679,7 +1682,7 @@
     },
     "page2.html": {
       "settings": {
-        "title": "77DETAILING | POWŁOKI OCHRONNE",
+        "title": "77DETAILING | Powłoki ochronne",
         "order": "2",
         "meta_descr": "Studio kompleksowej pielęgnacji samochodów powstałe z czystej pasji do motoryzacji. Cenimy sobie najwyższą jakość i precyzję wykonywanych usług.",
         "meta_image": "@PROJECT_PATH@/assets/images/img-1397.png"
@@ -2263,6 +2266,9 @@
             },
             "UL": {
               "color": "#000000"
+            },
+            ".price-term": {
+              "color": "#000000"
             }
           },
           "_name": "pricing2",
@@ -2302,7 +2308,7 @@
     },
     "page4.html": {
       "settings": {
-        "title": "77DETAILING | DETAILING WNĘTRZA",
+        "title": "77DETAILING | Detailing wnętrza",
         "order": "3",
         "meta_descr": "Studio kompleksowej pielęgnacji samochodów powstałe z czystej pasji do motoryzacji. Cenimy sobie najwyższą jakość i precyzję wykonywanych usług.",
         "meta_image": "@PROJECT_PATH@/assets/images/img-1397.png"
@@ -2882,6 +2888,9 @@
             },
             "UL": {
               "color": "#000000"
+            },
+            ".price-term": {
+              "color": "#000000"
             }
           },
           "_name": "pricing2",
@@ -2922,7 +2931,7 @@
     },
     "page5.html": {
       "settings": {
-        "title": "77DETAILING | DOOR TO DOOR",
+        "title": "77DETAILING | Door to door",
         "order": "5",
         "meta_descr": "Studio kompleksowej pielęgnacji samochodów powstałe z czystej pasji do motoryzacji. Cenimy sobie najwyższą jakość i precyzję wykonywanych usług.",
         "meta_image": "@PROJECT_PATH@/assets/images/img-1397.png"
@@ -3548,7 +3557,7 @@
     },
     "page6.html": {
       "settings": {
-        "title": "77DETAILING | PAKIET SPRZEDAŻOWY",
+        "title": "77DETAILING | Pakiet sprzedażowy",
         "order": "4",
         "meta_descr": "Studio kompleksowej pielęgnacji samochodów powstałe z czystej pasji do motoryzacji. Cenimy sobie najwyższą jakość i precyzję wykonywanych usług.",
         "meta_image": "@PROJECT_PATH@/assets/images/img-1397.png"
@@ -4087,7 +4096,7 @@
     },
     "page7.html": {
       "settings": {
-        "title": "77DETAILING | REALIZACJE",
+        "title": "77DETAILING | Realizacje",
         "order": "6",
         "meta_descr": "Studio kompleksowej pielęgnacji samochodów powstałe z czystej pasji do motoryzacji. Cenimy sobie najwyższą jakość i precyzję wykonywanych usług.",
         "meta_image": "@PROJECT_PATH@/assets/images/img-1397.png"
