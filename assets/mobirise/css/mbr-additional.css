@@ -2785,6 +2785,70 @@ a {
 .cid-ttBm0Tl12P .mbr-text {
   color: #ffffff;
 }
+.cid-tvrOZjC1DK {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background: #121212;
+}
+.cid-tvrOZjC1DK .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tvrOZjC1DK .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tvrOZjC1DK .list-group-item {
+  background-color: transparent;
+  padding: .5rem 3.25rem;
+}
+.cid-tvrOZjC1DK .plan-body {
+  padding-bottom: 2rem;
+}
+.cid-tvrOZjC1DK .plan-header {
+  padding-top: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+.cid-tvrOZjC1DK .price {
+  color: #000000;
+}
+.cid-tvrOZjC1DK .plan {
+  word-break: break-word;
+  background-color: #ffffff;
+}
+.cid-tvrOZjC1DK .plan .list-group-item {
+  position: relative;
+  justify-content: center;
+  border: 0;
+}
+.cid-tvrOZjC1DK .plan .list-group-item::after {
+  position: absolute;
+  bottom: 1px;
+  left: 25%;
+  width: 50%;
+  height: 1px;
+  content: "";
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.cid-tvrOZjC1DK .plan .list-group-item:last-child::after {
+  display: none;
+}
+@media (max-width: 991px) {
+  .cid-tvrOZjC1DK .plan {
+    margin-bottom: 2rem;
+  }
+}
+.cid-tvrOZjC1DK .plan-title {
+  color: #000000;
+}
+.cid-tvrOZjC1DK UL {
+  color: #000000;
+}
 .cid-tuNLdu6VlT {
   padding-top: 30px;
   padding-bottom: 30px;
