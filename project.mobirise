@@ -61,7 +61,7 @@
     "gdpr": false,
     "witsec-white-label": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "usedWebp": true,
     "cookiesAlert": false
   },
