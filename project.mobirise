@@ -52,7 +52,7 @@
     "uniqCompNum": 125,
     "versionPublish": "5.8.0",
     "favicon": "@PROJECT_PATH@/assets/images/img-1397-128x128.png",
-    "mbrsiteDomain": "7vo6cv6s4j",
+    "mbrsiteDomain": "peulusn9hq",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -71,12 +71,12 @@
       "rejectColor": "#ffffff",
       "colorLink": "#ffffff",
       "underlineLink": true,
-      "opacityOverlay": "79",
-      "text": "Ta strona korzysta z ciasteczek aby świadczyć usługi na najwyższym poziomie. Dalsze korzystanie ze strony oznacza, że zgadzasz się na ich użycie. <page8.html'>Polityka prywatności</a>.",
+      "opacityOverlay": "1",
+      "text": "Ta strona korzysta z ciasteczek aby świadczyć usługi na najwyższym poziomie. <page8.html'>Polityka prywatności</a>.",
       "textButton": "Zgoda",
       "rejectText": "REJECT"
     },
-    "cookiesAlertType": "3"
+    "cookiesAlertType": "1"
   },
   "pages": {
     "index.html": {
