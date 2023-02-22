@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "77DETAILING",
-    "currentPage": "page7.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -49,7 +49,7 @@
         "url": "https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
       }
     ],
-    "uniqCompNum": 125,
+    "uniqCompNum": 127,
     "versionPublish": "5.8.0",
     "favicon": "@PROJECT_PATH@/assets/images/img-1397-128x128.png",
     "mbrsiteDomain": "juzrjaorq3",
