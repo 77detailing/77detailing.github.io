@@ -1268,12 +1268,14 @@ a {
 }
 .cid-tuvbhnTb5Q {
   padding-top: 1rem;
-  padding-bottom: 2rem;
+  padding-bottom: 1rem;
   background-color: #090909;
 }
 .cid-tuvbhnTb5Q img,
 .cid-tuvbhnTb5Q .item-img {
   width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 .cid-tuvbhnTb5Q .item:focus,
 .cid-tuvbhnTb5Q span:focus {
