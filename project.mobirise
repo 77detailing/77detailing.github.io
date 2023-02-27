@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "77DETAILING",
-    "currentPage": "polerowanie-lakieru.html",
+    "currentPage": "powloki-ochronne.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -61,7 +61,7 @@
     "gdpr": false,
     "witsec-white-label": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "usedWebp": true,
     "cookiesAlert": false
   },
