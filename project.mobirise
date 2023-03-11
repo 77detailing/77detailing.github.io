@@ -943,7 +943,7 @@
     },
     "polerowanie-lakieru.html": {
       "settings": {
-        "title": "77DETAILING | Polerowanie lakieru",
+        "title": "Polerowanie lakieru | 77DETAILING",
         "order": "1",
         "meta_descr": "Studio kompleksowej pielęgnacji samochodów powstałe z czystej pasji do motoryzacji. Cenimy sobie najwyższą jakość i precyzję wykonywanych usług.",
         "meta_image": "@PROJECT_PATH@/assets/images/img-1397.png"
@@ -1570,7 +1570,7 @@
     },
     "powloki-ochronne.html": {
       "settings": {
-        "title": "77DETAILING | Powłoki ochronne",
+        "title": "Powłoki ochronne | 77DETAILING",
         "order": "2",
         "meta_descr": "Studio kompleksowej pielęgnacji samochodów powstałe z czystej pasji do motoryzacji. Cenimy sobie najwyższą jakość i precyzję wykonywanych usług.",
         "meta_image": "@PROJECT_PATH@/assets/images/img-1397.png"
@@ -2196,7 +2196,7 @@
     },
     "detailing-wnetrza.html": {
       "settings": {
-        "title": "77DETAILING | Detailing wnętrza",
+        "title": "Detailing wnętrza | 77DETAILING",
         "order": "3",
         "meta_descr": "Studio kompleksowej pielęgnacji samochodów powstałe z czystej pasji do motoryzacji. Cenimy sobie najwyższą jakość i precyzję wykonywanych usług.",
         "meta_image": "@PROJECT_PATH@/assets/images/img-1397.png"
@@ -2819,7 +2819,7 @@
     },
     "pakiet-sprzedazowy.html": {
       "settings": {
-        "title": "77DETAILING | Pakiet sprzedażowy",
+        "title": "Pakiet sprzedażowy | 77DETAILING",
         "order": "4",
         "meta_descr": "Studio kompleksowej pielęgnacji samochodów powstałe z czystej pasji do motoryzacji. Cenimy sobie najwyższą jakość i precyzję wykonywanych usług.",
         "meta_image": "@PROJECT_PATH@/assets/images/img-1397.png"
@@ -3358,7 +3358,7 @@
     },
     "realizacje.html": {
       "settings": {
-        "title": "77DETAILING | Realizacje",
+        "title": "Realizacje | 77DETAILING",
         "order": "6",
         "meta_descr": "Studio kompleksowej pielęgnacji samochodów powstałe z czystej pasji do motoryzacji. Cenimy sobie najwyższą jakość i precyzję wykonywanych usług.",
         "meta_image": "@PROJECT_PATH@/assets/images/img-1397.png"
@@ -4536,7 +4536,7 @@
     },
     "wiedza.html": {
       "settings": {
-        "title": "77DETAILING | Wiedza",
+        "title": "Wiedza | 77DETAILING",
         "order": "7"
       },
       "components": [
