@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "77DETAILING",
-    "currentPage": "page7.html",
+    "currentPage": "revivify.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -70,7 +70,7 @@
       "settings": {
         "main": true,
         "title": "77DETAILING | Tarnowskie Góry",
-        "meta_descr": "Studio kompleksowej pielęgnacji samochodów powstałe z czystej pasji do motoryzacji. Cenimy sobie najwyższą jakość i precyzję wykonywanych usług.",
+        "meta_descr": "Studio detailingu w Tarnowskich Górach powstałe z czystej pasji do motoryzacji. Specjalizujemy się w polerowaniu lakieru i powłokach ELASTOMEROWYCH.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -945,7 +945,7 @@
       "settings": {
         "title": "Polerowanie lakieru | 77DETAILING",
         "order": "1",
-        "meta_descr": "Studio kompleksowej pielęgnacji samochodów powstałe z czystej pasji do motoryzacji. Cenimy sobie najwyższą jakość i precyzję wykonywanych usług.",
+        "meta_descr": "Polerowanie lakieru lub korekta lakieru to najczęściej wybierana usługa mająca na celu podnieść blask samochodu.",
         "meta_image": "@PROJECT_PATH@/assets/images/img-1397.png"
       },
       "components": [
@@ -1614,7 +1614,7 @@
       "settings": {
         "title": "Powłoki ochronne | 77DETAILING",
         "order": "2",
-        "meta_descr": "Studio kompleksowej pielęgnacji samochodów powstałe z czystej pasji do motoryzacji. Cenimy sobie najwyższą jakość i precyzję wykonywanych usług.",
+        "meta_descr": "Powłoki ceramiczne, kwarcowe, grafenowe i elastomerowe to skuteczny sposób zabezpieczenia samochodu przed brudem.",
         "meta_image": "@PROJECT_PATH@/assets/images/img-1397.png"
       },
       "components": [
@@ -2284,7 +2284,7 @@
       "settings": {
         "title": "Detailing wnętrza | 77DETAILING",
         "order": "3",
-        "meta_descr": "Studio kompleksowej pielęgnacji samochodów powstałe z czystej pasji do motoryzacji. Cenimy sobie najwyższą jakość i precyzję wykonywanych usług.",
+        "meta_descr": "Pranie tapicerki, ozonowanie, czyszczenie, impregnacja to jedne ze składników detailingu wnętrza.",
         "meta_image": "@PROJECT_PATH@/assets/images/img-1397.png"
       },
       "components": [
@@ -2949,7 +2949,7 @@
       "settings": {
         "title": "Pakiet sprzedażowy | 77DETAILING",
         "order": "4",
-        "meta_descr": "Studio kompleksowej pielęgnacji samochodów powstałe z czystej pasji do motoryzacji. Cenimy sobie najwyższą jakość i precyzję wykonywanych usług.",
+        "meta_descr": "Przygotowanie auta do sprzedaży to najskuteczniejsza metoda dokonania zadoawlającej transakcji.",
         "meta_image": "@PROJECT_PATH@/assets/images/img-1397.png"
       },
       "components": [
@@ -3530,7 +3530,7 @@
       "settings": {
         "title": "Realizacje | 77DETAILING",
         "order": "5",
-        "meta_descr": "Studio kompleksowej pielęgnacji samochodów powstałe z czystej pasji do motoryzacji. Cenimy sobie najwyższą jakość i precyzję wykonywanych usług.",
+        "meta_descr": "Realizacje i efekty prac 77DETAILING. Zobacz co jesteśmy w stanie zrobić z Twoim samochodem.",
         "meta_image": "@PROJECT_PATH@/assets/images/img-1397.png"
       },
       "components": [
@@ -4707,7 +4707,8 @@
     "wiedza.html": {
       "settings": {
         "title": "Wiedza | 77DETAILING",
-        "order": "6"
+        "order": "6",
+        "meta_descr": "Jak umyć auto z powłoką ceramiczną? Tu znajdziesz odpowiedź."
       },
       "components": [
         {
@@ -5278,10 +5279,11 @@
         }
       ]
     },
-    "page7.html": {
+    "revivify.html": {
       "settings": {
         "title": "REVIVIFY | 77DETAILING",
-        "order": "7"
+        "order": "7",
+        "meta_descr": "Powłoka ELASTOMEROWA to flagowy produkt 77DETAILING."
       },
       "components": [
         {
