@@ -707,11 +707,12 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-ttmnPenMKd .navbar-dropdown {
-  position: relative !important;
+.cid-ttmnPenMKd {
+  z-index: 1000;
+  width: 100%;
 }
-.cid-ttmnPenMKd .navbar-dropdown {
-  position: absolute !important;
+.cid-ttmnPenMKd nav.navbar {
+  position: fixed;
 }
 .cid-ttmnPenMKd .dropdown-item:before {
   font-family: Moririse2 !important;
@@ -1049,6 +1050,7 @@ a {
 }
 .cid-ttmnPenMKd .navbar-dropdown {
   padding: 0 1rem;
+  position: fixed;
 }
 .cid-ttmnPenMKd a.nav-link {
   display: flex;
