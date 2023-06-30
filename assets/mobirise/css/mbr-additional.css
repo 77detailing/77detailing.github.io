@@ -827,7 +827,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(9, 9, 9, 0.4);
+  background: rgba(9, 9, 9, 0.5);
 }
 .cid-ttmnPenMKd .navbar.opened {
   transition: all 0.3s;
@@ -853,7 +853,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-ttmnPenMKd .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 4.5rem);
   }
 }
 .cid-ttmnPenMKd .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1633,7 +1633,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(9, 9, 9, 0.4);
+  background: rgba(9, 9, 9, 0.5);
 }
 .cid-ttmnPenMKd .navbar.opened {
   transition: all 0.3s;
@@ -1659,7 +1659,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-ttmnPenMKd .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 4.5rem);
   }
 }
 .cid-ttmnPenMKd .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -2142,7 +2142,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(9, 9, 9, 0.4);
+  background: rgba(9, 9, 9, 0.5);
 }
 .cid-tts8IhPrHg .navbar.opened {
   transition: all 0.3s;
@@ -2168,7 +2168,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tts8IhPrHg .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 4.5rem);
   }
 }
 .cid-tts8IhPrHg .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -2652,7 +2652,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(9, 9, 9, 0.4);
+  background: rgba(9, 9, 9, 0.5);
 }
 .cid-ttwN5hPKk2 .navbar.opened {
   transition: all 0.3s;
@@ -2678,7 +2678,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-ttwN5hPKk2 .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 4.5rem);
   }
 }
 .cid-ttwN5hPKk2 .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -3157,7 +3157,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(9, 9, 9, 0.4);
+  background: rgba(9, 9, 9, 0.5);
 }
 .cid-ttTrXm0HMQ .navbar.opened {
   transition: all 0.3s;
@@ -3183,7 +3183,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-ttTrXm0HMQ .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 4.5rem);
   }
 }
 .cid-ttTrXm0HMQ .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -3599,7 +3599,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(9, 9, 9, 0.4);
+  background: rgba(9, 9, 9, 0.5);
 }
 .cid-tudvDMzzMA .navbar.opened {
   transition: all 0.3s;
@@ -3625,7 +3625,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tudvDMzzMA .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 4.5rem);
   }
 }
 .cid-tudvDMzzMA .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -4384,7 +4384,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(9, 9, 9, 0.4);
+  background: rgba(9, 9, 9, 0.5);
 }
 .cid-ttmnPenMKd .navbar.opened {
   transition: all 0.3s;
@@ -4410,7 +4410,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-ttmnPenMKd .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 4.5rem);
   }
 }
 .cid-ttmnPenMKd .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -4784,7 +4784,7 @@ a {
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
   position: absolute;
-  background: rgba(9, 9, 9, 0.4);
+  background: rgba(9, 9, 9, 0.5);
 }
 .cid-tBwGDN1TkS .navbar.opened {
   transition: all 0.3s;
@@ -4810,7 +4810,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-tBwGDN1TkS .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
+    max-height: calc(98.5vh - 4.5rem);
   }
 }
 .cid-tBwGDN1TkS .navbar.collapsed .dropdown-menu .dropdown-submenu {
