@@ -988,7 +988,6 @@ a {
   display: flex;
   justify-content: center;
   align-items: center;
-  display: none;
 }
 @media (max-width: 768px) {
   .cid-tD0KXWa0ao .embla__button {
