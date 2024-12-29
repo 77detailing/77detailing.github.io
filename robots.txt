@@ -1,7 +1,0 @@
-User-agent: *
-Disallow: /detailing_bytom.html
-Disallow: /detailing_zabrze.html
-Disallow: /detailing_gliwice.html
-Disallow: /detailing_piekary_slaskie.html
-
-Sitemap: https://77detailing.pl/sitemap.xml
