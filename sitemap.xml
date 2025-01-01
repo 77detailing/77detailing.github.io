@@ -6,9 +6,6 @@
 		<loc>https://77detailing.pl/detailing.html</loc>
 	</url>
 	<url>
-		<loc>https://77detailing.pl/powloki.html</loc>
-	</url>
-	<url>
 		<loc>https://77detailing.pl/polerowanie.html</loc>
 	</url>
 	<url>
@@ -22,5 +19,8 @@
 	</url>
 	<url>
 		<loc>https://77detailing.pl/kontakt.html</loc>
+	</url>
+	<url>
+		<loc>https://77detailing.pl/powloka.html</loc>
 	</url>
 </urlset>
