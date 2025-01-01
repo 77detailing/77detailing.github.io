@@ -58,7 +58,7 @@
     "versionPublish": "5.9.18",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
-    "mbrsiteDomain": "69dbk8yfml",
+    "mbrsiteDomain": "4h2ydpzcb6",
     "usedWebp": true,
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
@@ -67,7 +67,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "witsec-white-label": true,
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\nSitemap: https://www.77detailing.pl/sitemap.xml"
   },
   "pages": {
     "index.html": {
@@ -75,7 +75,7 @@
         "main": true,
         "title": "77DETAILING - auto detailing, polerowanie, powłoki ceramiczne, oklejanie aut",
         "meta_descr": "Profesjonalne studio detailingu. Oferujemy polerowanie lakieru, powłoki ceramiczne, folie ochronne i kompleksowe czyszczenie wnętrz. Zadbamy o Twój samochód!",
-        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n    <title>77DETAILING - auto detailing, polerowanie, powłoki ceramiczne, oklejanie aut</title>\n <meta name=\"keywords\" content=\"oklejanie aut, oklejanie samochodu, zabezpieczenie lakieru, powłoki ceramiczne cena, polerowanie, detailing, 77detailing, detailing Tarnowskie Góry\">\n    <link rel=\"canonical\" href=\"https://77detailing.pl/\" />\n    <!-- Inne tagi meta -->\n</head>",
+        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n  \n<meta name=\"robots\" content=\"index, follow\">\n <meta name=\"keywords\" content=\"oklejanie aut, oklejanie samochodu, zabezpieczenie lakieru, powłoki ceramiczne cena, polerowanie, detailing, 77detailing, detailing Tarnowskie Góry\">\n    <link rel=\"canonical\" href=\"https://77detailing.pl/index.html\" />\n    <!-- Inne tagi meta -->",
         "footer_custom": "",
         "html_before": "",
         "socialSharingUrl": ""
@@ -1407,7 +1407,7 @@
         "order": "3",
         "meta_descr": "Pranie tapicerki, czyszczenie wnętrz, mycie, woskowanie i przygotowanie auta do sprzedaży. Zadbaj o perfekcyjny wygląd swojego samochodu na Śląsku!",
         "meta_image": "@PROJECT_PATH@/assets/images/ld-export-add8e1fc-3222025-1256x1884.jpeg",
-        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n    <title>DETAILING | pranie tapicerki, czyszczenie, impregnacja</title>\n <meta name=\"pranie tapicerki cena, pranie tapicerki, czyszczenie wnętrza, impregnacja tapicerki, czyszczenie skór\">\n    <link rel=\"canonical\" href=\"https://77detailing.pl/detailing.html\" />\n    <!-- Inne tagi meta -->\n</head>"
+        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n   \n<meta name=\"robots\" content=\"index, follow\">\n <meta name=\"pranie tapicerki cena, pranie tapicerki, czyszczenie wnętrza, impregnacja tapicerki, czyszczenie skór\">\n    <link rel=\"canonical\" href=\"https://77detailing.pl/detailing.html\" />\n    <!-- Inne tagi meta -->"
       },
       "components": [
         {
@@ -2442,7 +2442,7 @@
         "order": "4",
         "meta_descr": "Przywracamy blask i głębię koloru lakieru, usuwamy rysy i maskujemy drobne odpryski. Zaufaj ekspertom od auto detailingu na Śląsku!",
         "meta_image": "@PROJECT_PATH@/assets/images/polerowanie%20lakieru%2077detailing-1256x709.png",
-        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n    <title>POLEROWANIE | usuwanie rys, maskowanie odprysków</title>\n <meta name=\"polerowanie auta, korekta lakieru, polerowanie samochodu, polerowanie cena, polerka cena, usuwanie rys\">\n    <link rel=\"canonical\" href=\"https://77detailing.pl/polerowanie.html\" />\n    <!-- Inne tagi meta -->\n</head>"
+        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n \n<meta name=\"robots\" content=\"index, follow\">\n <meta name=\"polerowanie auta, korekta lakieru, polerowanie samochodu, polerowanie cena, polerka cena, usuwanie rys\">\n    <link rel=\"canonical\" href=\"https://77detailing.pl/polerowanie.html\" />\n    <!-- Inne tagi meta -->"
       },
       "components": [
         {
@@ -3476,7 +3476,7 @@
         "title": "CENNIK | oklejanie aut, polerowanie, detailing, ceramika",
         "order": "5",
         "meta_descr": "Sprawdź szczegółowe ceny polerowania, powłok ochronnych, aplikacji folii PPF, czyszczenia wnętrz i innych usług auto detailingu na Śląsku!",
-        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n    <title>CENNIK | oklejanie aut, polerowanie, detailing, ceramika</title>\n <meta name=\"polerowanie cena, ceramika cena, pranie tapicerki cena, folia na auto cena, folia na samochód cena, detailing cena, przyciemnianie szyb cena\">\n    <link rel=\"canonical\" href=\"https://77detailing.pl/cennik.html\" />\n    <!-- Inne tagi meta -->\n</head>",
+        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n   \n<meta name=\"robots\" content=\"index, follow\">\n <meta name=\"polerowanie cena, ceramika cena, pranie tapicerki cena, folia na auto cena, folia na samochód cena, detailing cena, przyciemnianie szyb cena\">\n    <link rel=\"canonical\" href=\"https://77detailing.pl/cennik.html\" />\n    <!-- Inne tagi meta -->",
         "html_before": ""
       },
       "components": [
@@ -4547,7 +4547,7 @@
         "order": "1",
         "meta_descr": "Folia na auto z profesjonalną aplikacją. Zabezpieczenie lakieru przed zarysowaniami, odpryskami. Zabezpiecz swoje auto na lata z ekspertami ze Śląska!",
         "meta_image": "@PROJECT_PATH@/assets/images/adobestock_495981932-3-1000x667.png",
-        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n    <title>FOLIA NA AUTO | oklejanie samochodu, zabezpieczenie lakieru</title>\n <meta name=\"keywords\" content=\"oklejanie samochodu, oklejanie auta, folie cena, oklejanie cena, folia PPF na auto, folie ochronne\">\n    <link rel=\"canonical\" href=\"https://77detailing.pl/folia.html\" />\n    <!-- Inne tagi meta -->\n</head>"
+        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n   \n<meta name=\"robots\" content=\"index, follow\">\n <meta name=\"keywords\" content=\"oklejanie samochodu, oklejanie auta, folie cena, oklejanie cena, folia PPF na auto, folie ochronne\">\n    <link rel=\"canonical\" href=\"https://77detailing.pl/folia.html\" />\n    <!-- Inne tagi meta -->"
       },
       "components": [
         {
@@ -5581,7 +5581,7 @@
         "title": "BLOG | 77DETAILING - detailing samochodów",
         "order": "7",
         "meta_descr": "Odkryj sekrety auto detailingu! Porady, wskazówki i najlepsze techniki, pielęgnacja samochodu – od ceramicznej ochrony lakieru po polerowanie.",
-        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n    <title>BLOG | 77DETAILING - detailing samochodów</title>\n <meta name=\"detailing tarnowskie góry, detailing zabrze, detailing bytom, detailing katowice, detailing chorzów\">\n    <link rel=\"canonical\" href=\"https://77detailing.pl/blog.html\" />\n    <!-- Inne tagi meta -->\n</head>"
+        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n  \n<meta name=\"robots\" content=\"index, follow\">\n <meta name=\"detailing tarnowskie góry, detailing zabrze, detailing bytom, detailing katowice, detailing chorzów\">\n    <link rel=\"canonical\" href=\"https://77detailing.pl/blog.html\" />\n    <!-- Inne tagi meta -->"
       },
       "components": [
         {
@@ -6604,7 +6604,7 @@
       "settings": {
         "title": "KONTAKT | formularz kontaktowy, wycena online",
         "order": "6",
-        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n    <title>KONTAKT | formularz kontaktowy, wycena online</title>\n <meta name=\"kontakt detailing, kontakt 77detailing, formularz kontaktowy, kontakt\">\n    <link rel=\"canonical\" href=\"https://77detailing.pl/kontakt.html\" />\n    <!-- Inne tagi meta -->\n</head>",
+        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n    \n<meta name=\"robots\" content=\"index, follow\">\n <meta name=\"kontakt detailing, kontakt 77detailing, formularz kontaktowy, kontakt\">\n    <link rel=\"canonical\" href=\"https://77detailing.pl/kontakt.html\" />\n    <!-- Inne tagi meta -->",
         "meta_descr": "Skontaktuj się z nami! Oferujemy kompleksowy detailing w Tarnowskich Górach. Zadzwoń, napisz lub odwiedź nas osobiście. Twój samochód w najlepszych rękach!"
       },
       "components": [
@@ -7657,7 +7657,7 @@
         "order": "2",
         "meta_descr": "Trwałe powłoki ceramiczne, elastomerowe i kwarcowe. Ochrona lakieru przed zarysowaniami, UV i chemią. Zadbaj o blask i trwałość swojego auta na Śląsku!",
         "meta_image": "@PROJECT_PATH@/assets/images/ceramika%20na%20auto%20(2)-998x748.jpg",
-        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<meta name=\"robots\" content=\"index, follow\">\n    <title>POWŁOKI OCHRONNE | ceramiczna, elastomerowa</title>\n <meta name=\"keywords\" content=\"powłoka ceramiczna cena, powłoka na auto, powłoka kwarcowa, powłoka elastomerowa, powłoka cena\">\n    <link rel=\"canonical\" href=\"https://77detailing.pl/powloka.html\" />\n    <!-- Inne tagi meta -->\n</head>"
+        "header_custom": "<head>\n    <meta charset=\"UTF-8\">\n   \n<meta name=\"robots\" content=\"index, follow\">\n <meta name=\"keywords\" content=\"powłoka ceramiczna cena, powłoka na auto, powłoka kwarcowa, powłoka elastomerowa, powłoka cena\">\n    <link rel=\"canonical\" href=\"https://77detailing.pl/powloka.html\" />\n    <!-- Inne tagi meta -->"
       },
       "components": [
         {
